@@ -1,1 +1,2 @@
-# mandyton
+# photography
+Photography Template
